@@ -1,5 +1,5 @@
 {
-	"name": "@conicle-package/nest/template",
+	"name": "@conicle-package/template",
 	"version": "0.0.1",
 	"description": "NestJS npm package starter",
 	"author": "Conicle packaged with commo",
